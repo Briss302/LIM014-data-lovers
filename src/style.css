@@ -145,7 +145,7 @@ header .menu li a:hover {
 
 /*......MAIN......*/
 main {
-  padding-top: 140px;
+  padding-top: 80px;
 }
 /**..SCREEN-TWO..**/
 .screen-two {
@@ -447,19 +447,17 @@ main .slider input[type="radio"]:checked + label {
   cursor: pointer;
 }
 
-
-#pagination{
+#pagination {
   text-align: center;
   height: 50px;
-  font-weight:bold;
+  font-weight: bold;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
- 
 }
 
-#pagination a{
+#pagination a {
   margin: 5px;
   background: rgb(11, 238, 219);
   color: black;
